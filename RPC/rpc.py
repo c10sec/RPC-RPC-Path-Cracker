@@ -5,7 +5,7 @@ import datetime
 os.system("clear")
 
 def help():
-	print('||Directory ram 1.1||')
+	print('||RPC: (RPC Path Cracker) 1.1||')
 	print('\t-t  Target URL (ex: -t https://www.example.com)')
 	print('\t-d  Select a dictionary (ex: -d dictionary1.txt)')
 	print('\t-r  Uses recursive search')
